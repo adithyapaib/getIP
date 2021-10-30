@@ -1,3 +1,4 @@
+//javascript file
 const path = require("path");
 const app = require("express")();
 app.get("/", function (req, res) {
